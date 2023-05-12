@@ -1,3 +1,0 @@
-/home/neon/projects/test/build/CMakeFiles/test.dir
-/home/neon/projects/test/build/CMakeFiles/edit_cache.dir
-/home/neon/projects/test/build/CMakeFiles/rebuild_cache.dir
