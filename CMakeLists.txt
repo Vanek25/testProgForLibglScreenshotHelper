@@ -12,6 +12,7 @@ find_package(OpenGL REQUIRED)
 
 find_library(LIB_glScreenshotHelper glScreenshotHelper)
 find_library(LIB_freeimage freeimage)
+find_library(LIB_cppunit cppunit)
 
 target_link_libraries(${PROJECT_NAME} glScreenshotHelper freeimage cppunit ${OPENGL_LIBRARIES} glfw)
 
